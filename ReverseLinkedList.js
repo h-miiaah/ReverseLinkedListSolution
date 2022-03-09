@@ -13,4 +13,8 @@
     let prev = null;
     let curr = head;
     let nextTemp = null;
+
+    while(curr!= null) {
+        
+    }
 };
