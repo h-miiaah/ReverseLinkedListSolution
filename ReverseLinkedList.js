@@ -31,6 +31,7 @@
 - Set nextTemp to curr.next.
 - Set curr.next to prev.
 - Set prev to curr.
+- Set curr to nextTemp.
 
 
 */
