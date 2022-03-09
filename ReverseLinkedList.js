@@ -29,6 +29,7 @@
 - Set prev to null and curr to head.
 - Loop through the linked list until curr is null.
 - Set nextTemp to curr.next.
+- Set curr.next to prev.
 
 
 */
