@@ -16,5 +16,6 @@
 
     while(curr!= null) {
         nextTemp = curr.next;
+        curr.next = prev;
     }
 };
