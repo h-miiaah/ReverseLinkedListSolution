@@ -20,4 +20,5 @@
         prev = curr;
         curr = nextTemp;
     }
+    return prev
 };
