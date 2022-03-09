@@ -10,5 +10,5 @@
  * @return {ListNode}
  */
  var reverseList = function(head) {
-    
+    let prev = null;
 };
