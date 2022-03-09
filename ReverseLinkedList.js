@@ -25,6 +25,7 @@
 
 /*
 
+- Initialize two variables prev and curr.
 
 
 */
