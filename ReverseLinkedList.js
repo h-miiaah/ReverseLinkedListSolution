@@ -15,6 +15,6 @@
     let nextTemp = null;
 
     while(curr!= null) {
-        
+        nextTemp = curr.next;
     }
 };
